@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677050200977",
+    "firebase_url": "https://sometest-4b283.firebaseio.com",
+    "project_id": "sometest-4b283",
+    "storage_bucket": "sometest-4b283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677050200977:android:50aa1f1905d2e811",
+        "android_client_info": {
+          "package_name": "com.fillooow.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677050200977-nsipd9ojh6rvpihn9lgufhg8c5egoj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-MRP3IkSVE5X_GmhVwm7cbi1U7xGy-Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677050200977-nsipd9ojh6rvpihn9lgufhg8c5egoj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
