@@ -2,7 +2,6 @@ package com.fillooow.parking
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.crashlytics.android.Crashlytics
 import com.fillooow.parking.storage.SharedPrefsStorageCaseImpl
 import com.fillooow.parking.storage.StorageCaseImpl
 import com.fillooow.parking.ui.NetworkViewModel
@@ -25,7 +24,6 @@ class MainActivity : AppCompatActivity() {
 
         btn_search.setOnClickListener {
 
-            //Crashlytics.getInstance().crash() fixme: выпилить крешлитикс
             networkViewModel.onClickPressed(edit_search.text.toString())
         }
 
